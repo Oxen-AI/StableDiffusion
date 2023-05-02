@@ -1,0 +1,7 @@
+accelerate
+argparse
+diffusers
+torch
+torchvision
+torchaudio
+transformers
